@@ -573,6 +573,7 @@
     border: 2px solid #d6d6d6;
     background-color: #f7f7f7;
     border-radius: 5px;
+    padding-bottom: 30px;
     font: inherit;
     width: auto;
  }
@@ -593,6 +594,7 @@
     color: #666;
     font-size: 10px;
     padding-bottom: 10px;
+    padding-top: 0;
 }
 
 #contact-hero-form [type="checkbox"] + label::before {
