@@ -8,3 +8,6 @@ This project contains the html for the index, dining and rooms page for the coup
 Includes an ::after psuedo selector for the requirements of multi-media-authoring
 
 All html files are based on wireframes, finished designs and prototypes made under visual communication and design and image
+
+### Image of me coding throughout this week
+![Photo of Me](img/my_reaction.jpg)
